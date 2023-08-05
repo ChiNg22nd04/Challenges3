@@ -16,7 +16,7 @@
     padding: 0 160px;
 }
 .product-content-botScreen_left{
-    width: 50%;
+    /* width: 50%; */
 }
 .product-content-botScreen_left-text{
     color: #ced4dc;
@@ -72,7 +72,7 @@
 }
 .product-content-botScreen_left-line{
     position: absolute;
-    bottom: 125px;
+    bottom: 165px;
     right: 155px;
     width: 480px;
     height: 1px;

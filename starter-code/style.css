@@ -11,7 +11,7 @@ body{
 .product-screen{
     position: relative;
 }
-.product-fullscreen-item{
+.product-fullscreen-item_pc{
     /* padding-top: 65%; */
     /* background: url('./assets/home/background-home-desktop.jpg') top center / cover no-repeat; */
     /* background-image: url('./assets/home/background-home-desktop.jpg'); */
